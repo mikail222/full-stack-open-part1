@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 10rem;
+  background-image:url("https://i.pinimg.com/474x/96/1c/12/961c1242306a52a1dff0a681a2b31003.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  height:100vh;
+  border-radius: 10px;
+}

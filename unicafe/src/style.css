@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.App {
+  padding: 1rem;
+  padding-left: 10rem;
+  background-image: url("https://i.pinimg.com/474x/96/1c/12/961c1242306a52a1dff0a681a2b31003.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  border-radius: 10px;
+}
+h1 {
+  font-size: 4rem;
+  font-weight: 500;
+  color: black;
+  letter-spacing: 2px;
+}
+button {
+  margin: 4px;
+  padding: 6px 35px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 100;
+  color: black;
+  border-style: none;
+  background-color: whitesmoke;
+  cursor: pointer;
+}
+
+p {
+  display: flex;
+  font-size: 20px;
+  font-weight: 300;
+  color: black;
+}
+.span{
+  width: 5rem;
+}

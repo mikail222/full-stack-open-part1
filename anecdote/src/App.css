@@ -1,0 +1,21 @@
+/* .App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+button {
+  margin: 4px;
+  padding: 5px 30px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 100;
+  color: black;
+  border-style: none;
+  background-color: whitesmoke;
+  cursor: pointer;
+}
